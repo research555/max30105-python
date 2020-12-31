@@ -1,3 +1,8 @@
+# Introduction
+FORKED FROM https://github.com/pimoroni/max30105-python
+Learn from this code to create an IR spectrometer, measure values for different molecules and see if you can create a COVID diagnostic tool.
+
+
 # MAX30105 - Heart Rate, Oximeter, Smoke Sensor
 
 [![Build Status](https://travis-ci.com/pimoroni/max30105-python.svg?branch=master)](https://travis-ci.com/pimoroni/max30105-python)
